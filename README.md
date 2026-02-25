@@ -3,15 +3,11 @@ Implementación de una Base de Datos para una Red de Economía Apícola Producto
 
 Integrantes: 
 
-
 Juan Jose Renteria
-
 
 Salome Murillo
 
-
 Jeronimo Hoyos
-
 
 Adel Ramos
 
