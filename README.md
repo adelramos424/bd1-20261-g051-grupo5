@@ -34,6 +34,6 @@ A través de estas prácticas se desarrollan habilidades como el trabajo en equi
 ## Miembros del Equipo  
 
 - **Líder:** Adel Angel Ramos Chamorro 
-- **Integrante:** Jeronimo Hoyos
-- **Integrante:** Juan Jose Renteria
+- **Integrante:** Jerónimo Hoyos Jurado 
+- **Integrante:** Juan José Rentería Sánchez 
 - **Integrante:** Salome Murillo
