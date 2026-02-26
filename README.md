@@ -1,19 +1,27 @@
-# bd1-20261-g051-grupo5
-Implementación de una Base de Datos para una Red de Economía Apícola Productor-Consumidor: "API-KONECT"
+# Institución Universitaria Pascual Bravo  
 
-Integrantes: 
+## Programa: Tecnología en Desarrollo de Software  
 
+### Curso: Base de Datos I Grupo 51  
 
-Juan Jose Renteria
+---
 
+**Profesor:** Jaime E. Soto U.  
 
-Salome Murillo
+**Grupo:** #5  
 
+---
 
-Jeronimo Hoyos
+## Propósito  
 
+En este repositorio vas a encontrar todas las practicas realizadas por el grupo %5  de la clase de Base de Datos, con sus respectivos analisis, desarrollos y resultados.
+Cada carpeta corresponde a una de las tareas dadas por el profesor Jaime Soto Ernesto.
 
-Adel Ramos
+---
 
+## Miembros del Equipo  
 
-Breve descripción del caso:
+- **Líder:** Adel Angel Ramos Chamorro 
+- **Integrante:** Jeronimo Hoyos
+- **Integrante:** Juan Jose Renteria
+- **Integrante:** Salome Murillo
